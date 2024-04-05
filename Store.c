@@ -20,6 +20,4 @@ int main (void)
     printf("Discount of 10 percent: %.2f\n", discount);
     printf("Final price with discount: %.2f\n", finalPrice);
 
-
-    return 0;
 }
