@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/C++Personal",
-      "program": "c:/C++Personal/build/Debug/outDebug",
+      "cwd": "c:/Users/jairo/OneDrive/Desktop/VisualPersonal",
+      "program": "c:/Users/jairo/OneDrive/Desktop/VisualPersonal/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
