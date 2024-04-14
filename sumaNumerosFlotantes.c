@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main(void)
 {
     float numbers[10]; 
